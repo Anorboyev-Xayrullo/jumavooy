@@ -1,0 +1,548 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list{
+    display: flex;
+}
+.list_item{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+.list_item a{
+    text-decoration: none;
+    margin-left: 60px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #363853;
+}
+.fa-solid{
+    margin-left: 50px;  
+}
+.iphone{
+   margin-top: 50px;
+}
+
+.up{
+background: #FF7A50;
+box-shadow: 0px 40px 40px rgba(255, 104, 56, 0.19);
+border-radius: 0px;
+padding: 10px 10px 10px 10px;
+text-align: center;
+
+}
+
+.home{
+    font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #FF6838;
+}
+
+
+
+
+.super{
+    font-weight: 500;
+font-size: 66px;
+line-height: 78px;
+text-transform: capitalize;
+color: #363853;
+}
+
+.our{
+    margin-top: 200px;
+}
+
+.provide{
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-transform: capitalize;
+color: #363853;
+}
+
+.true{
+    background: #FF7A50;
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+padding: 10px 30px 10px 30px;
+border-radius: 5px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.expect{
+    margin-left: 50px;
+    padding: 8px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+text-decoration-line: underline;
+color: #363853;
+}
+
+
+.increment{
+    display: flex;
+    padding-top: 50px;
+}
+
+.boy{
+    padding-top: 8px;
+}
+
+.phone{
+    padding-top: 15px;
+}
+
+.alex{
+
+    display: flex;
+}
+
+.bike{
+    width: 100%;
+}
+
+
+.plural{
+    padding-top: 70px;
+    font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+text-transform: capitalize;
+color: #363853;
+text-align: center;
+}
+
+.singular{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    text-transform: capitalize;
+    color: #ff6838;
+}
+
+.burger{
+    display: flex;
+}
+
+.pizza{
+    padding-top: 10px;  
+    padding-left: 70px;
+}
+
+.sandwich{
+    padding-top: 15px;
+    padding-left: 50px;
+}
+
+.salad1{
+    padding-left: 35px;
+}
+
+.salad2{
+    padding-left: 35px;
+}
+.dollr1{
+    padding-left: 90px;
+}
+
+
+
+.dollr2{
+    padding-left: 90px;
+}
+.farm1{
+    margin-left: 60px;
+    width: 106px;
+    height: 32px;
+    background: #FF7A50;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+
+
+.farm2{
+    margin-left: 60px;
+    width: 106px;
+    height: 32px;
+    background: #FF7A50;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.menu{
+    padding-left: 50px;
+}
+.ola{
+    display: flex;
+    
+}
+.kiyik{
+padding-left: 50px;
+}
+.voltage{
+    margin-top: 40px;
+    padding-left: 10px;
+}
+
+.voltage2{
+    margin-top: 30px;
+    padding-left: 50px;
+}
+
+
+.voltage1{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.star1{
+    padding-top: 17px;
+    /* padding-left: 100px; */
+}
+
+
+.dollr{
+    margin-left: 50px;
+}
+.farm{
+    margin-left: 20px;
+    width: 106px;
+    height: 32px;
+    background: #FF7A50;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.epam{
+    text-align: center;
+    padding-top: 70px;
+}
+
+
+.log{
+    margin-left: 20px;
+}
+
+
+.vect{
+    margin-left: 20px;
+}
+
+.girl{
+    width: 100%;
+}
+
+.will{
+    text-align: center;
+    padding-top: 70px;
+    font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+text-transform: capitalize;
+color: #363853;
+}
+
+.sayt{
+    padding-top: 70px;
+    font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+text-transform: capitalize;
+color: #ff6838; 
+}
+
+.tasty{
+    padding-top: 30px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: #363853;
+opacity: 0.9;
+}
+
+.deliver{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-transform: capitalize;
+color: #363853;
+}
+
+.more{
+    margin-top: 70px;
+    width: 176px;
+height: 58px;
+    background: #FF7A50;
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+border-radius: 30px 30px 1px 30px;
+color: #FFFFFF;
+}
+
+
+.leap{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #ff6838;
+}
+
+.top{
+    text-align: center;
+    padding-top: 120px; 
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #363853;
+}
+
+
+.blaze{
+    padding-top: 22px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #363853;
+}
+
+
+.eleven{
+    font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+color: #363853;
+opacity: 0.9;
+}
+
+
+.kola{
+    width: 161px;
+      height: 160px;
+background: #FFFFFF;
+border-radius: 20px 10px;
+}
+
+
+.soat{
+    display: flex;
+}
+
+
+.main{
+    margin-top: 50px;
+}
+
+
+
+.eleven{
+    padding-left: 20px;
+}
+
+
+.load{
+    margin-top: 110px;
+    font-weight: 500;
+font-size: 36px;
+line-height: 50px;
+text-transform: capitalize;
+color: #363853;
+}
+
+
+
+.mobile{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 50px;
+    text-transform: capitalize;
+    color: #ff6838;
+}
+
+
+
+.love{
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: #363853;
+opacity: 0.9;
+}
+
+
+.oner{
+    margin-top: 50px;
+    display: flex;
+}
+
+
+
+.down{
+    bottom: 16.26%;
+    padding-left: 10px;
+
+/* background: #FFFFFF/ */
+}
+
+
+.fa-apple{
+    padding-top: 10px;
+}
+
+.fa-google-play{
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+.getup{
+    padding-left: 80px;
+   margin-top: -30px;
+}
+
+.client{
+    padding-top: 150px;
+    text-align: center;
+    font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+letter-spacing: 0.5px;
+color: #363853;
+}
+
+.girlone{
+    padding-top: 40px;
+}
+
+
+.laylak{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: 0.5px;
+    color: #ff6838; 
+}
+
+
+.girlone{
+  width: 100%;
+  margin-top: 50px;
+}
+
+.are{
+    margin-top: 150px;
+}
+
+
+
+
+.jole{
+    margin-top: 70px;
+    padding-left: 50px;
+    font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #FF7A50
+}
+
+.most{
+    padding-left: 50px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 45px;
+letter-spacing: 0.5px;
+color: #363853;
+}
+
+
+.lover{
+    padding-left: 50px;
+    font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #AAAAAA;
+}
+
+
+
+.book{
+    text-align: center;
+    
+}
+.left{
+    margin-left: 50px;;
+}
+
+.latest{
+    font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+color: #363853;
+}
+
+
+
+.please{
+    font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+    color: #363853;
+}
+
+
+
+.input{
+    text-align: center;
+}
+
+
+.halla{
+    width: 50%;
+}
+
+
+
+ .hayri{
+    width: 106px;
+    height: 40px;
+    background: #FF7A50;
+     border-radius: 5px;
+
+}
+
+.card-text{
+    padding-left: 30px;
+}
+
+.card1{
+    padding: 20px 40px;
+}
